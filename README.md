@@ -217,5 +217,5 @@ This project is licensed under the MIT License.
 ## **Contact**
 For any questions or suggestions, please reach out:
 - **Name**: Marcel Marin
-- **Email**: marcel.marin@example.com
+- **Email**: marcel5108@gmail.com
 - **LinkedIn**: [www.linkedin.com/in/marcel-martin-link](https://www.linkedin.com/in/marcel-martin-link)
