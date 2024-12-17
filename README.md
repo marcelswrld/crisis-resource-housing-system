@@ -11,9 +11,11 @@ The system supports:
 ---
 
 ## **Inspiration**
-This project draws inspiration from Airbnb's **Airbnb.org**, which has provided housing for over 100,000 people during crises. By simplifying the management of housing and donation resources, this project aims to help non-profits, shelters, and local authorities provide **faster assistance** during emergencies.
 
-The project is built to handle scalability, enabling thousands of listings and donations while ensuring data integrity and efficient resource allocation.
+This project draws inspiration from **Airbnb.org**, a non-profit initiative launched by Airbnb in December 2020. Airbnb.org builds on a history of connecting people in times of crisis to safe, comfortable places to stay. It began in 2012 when an Airbnb Host, Shell, offered her home for free to those impacted by Hurricane Sandy in New York City. Since then, Airbnb and Airbnb.org have helped provide housing for over **100,000 people** during hurricanes, wildfires, refugee crises, and a global pandemic.
+
+By simplifying the management of housing and donation resources, this project aims to empower **non-profits, shelters, and local authorities** to provide faster and more effective assistance during emergencies. The system is designed to scale efficiently, supporting thousands of housing listings and resource donations while maintaining data integrity and optimizing resource allocation.
+
 
 ---
 ## **Features**
